@@ -1,2 +1,2 @@
-# labpro1
+#Labp1_MichaelPonce
 Laboratorio de Programación I
